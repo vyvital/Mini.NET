@@ -1,0 +1,7 @@
+C:\Users\Vital\Desktop\Mini_proj\HW1_CC\bin\HW1_CC.dll.config
+C:\Users\Vital\Desktop\Mini_proj\HW1_CC\bin\HW1_CC.dll
+C:\Users\Vital\Desktop\Mini_proj\HW1_CC\bin\HW1_CC.pdb
+C:\Users\Vital\Desktop\Mini_proj\HW1_CC\obj\x64\Debug\HW1_CC.Properties.Resources.resources
+C:\Users\Vital\Desktop\Mini_proj\HW1_CC\obj\x64\Debug\HW1_CC.csproj.GenerateResource.Cache
+C:\Users\Vital\Desktop\Mini_proj\HW1_CC\obj\x64\Debug\HW1_CC.dll
+C:\Users\Vital\Desktop\Mini_proj\HW1_CC\obj\x64\Debug\HW1_CC.pdb

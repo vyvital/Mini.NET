@@ -1,0 +1,42 @@
+C:\Users\miriast\Downloads\covi\HW1_CC\bin\HW1_CC.dll.config
+C:\Users\miriast\Downloads\covi\HW1_CC\bin\HW1_CC.dll
+C:\Users\miriast\Downloads\covi\HW1_CC\bin\HW1_CC.pdb
+C:\Users\miriast\Downloads\covi\HW1_CC\obj\x86\Debug\HW1_CC.dll
+C:\Users\miriast\Downloads\covi\HW1_CC\obj\x86\Debug\HW1_CC.pdb
+C:\Users\miriast\Downloads\covi\HW1_CC\obj\x86\Debug\HW1_CC.csprojResolveAssemblyReference.cache
+C:\Users\cobysc\Downloads\HW1_CC\bin\HW1_CC.dll.config
+C:\Users\cobysc\Downloads\HW1_CC\bin\HW1_CC.dll
+C:\Users\cobysc\Downloads\HW1_CC\bin\HW1_CC.pdb
+C:\Users\cobysc\Downloads\HW1_CC\obj\x86\Debug\HW1_CC.csprojResolveAssemblyReference.cache
+C:\Users\cobysc\Downloads\HW1_CC\obj\x86\Debug\HW1_CC.dll
+C:\Users\cobysc\Downloads\HW1_CC\obj\x86\Debug\HW1_CC.pdb
+C:\Users\cobysc\Desktop\HW1_CC\bin\HW1_CC.dll.config
+C:\Users\cobysc\Desktop\HW1_CC\bin\HW1_CC.dll
+C:\Users\cobysc\Desktop\HW1_CC\bin\HW1_CC.pdb
+C:\Users\cobysc\Desktop\HW1_CC\obj\x86\Debug\HW1_CC.csprojResolveAssemblyReference.cache
+C:\Users\cobysc\Desktop\HW1_CC\obj\x86\Debug\HW1_CC.dll
+C:\Users\cobysc\Desktop\HW1_CC\obj\x86\Debug\HW1_CC.pdb
+C:\Users\cobysc\Downloads\HW1_CC\HW1_CC\bin\HW1_CC.dll.config
+C:\Users\cobysc\Downloads\HW1_CC\HW1_CC\bin\HW1_CC.dll
+C:\Users\cobysc\Downloads\HW1_CC\HW1_CC\bin\HW1_CC.pdb
+C:\Users\cobysc\Downloads\HW1_CC\HW1_CC\obj\x86\Debug\HW1_CC.csprojResolveAssemblyReference.cache
+C:\Users\cobysc\Downloads\HW1_CC\HW1_CC\obj\x86\Debug\HW1_CC.dll
+C:\Users\cobysc\Downloads\HW1_CC\HW1_CC\obj\x86\Debug\HW1_CC.pdb
+C:\Users\cobysc\Downloads\HW1_CC\HW1_CC\obj\x86\Debug\HW1_CC.Properties.Resources.resources
+C:\Users\cobysc\Downloads\HW1_CC\HW1_CC\obj\x86\Debug\HW1_CC.csproj.GenerateResource.Cache
+C:\Users\coby\Desktop\שנה ג\HW1_CC\bin\HW1_CC.dll.config
+C:\Users\coby\Desktop\שנה ג\HW1_CC\bin\HW1_CC.dll
+C:\Users\coby\Desktop\שנה ג\HW1_CC\bin\HW1_CC.pdb
+C:\Users\coby\Desktop\שנה ג\HW1_CC\obj\x86\Debug\HW1_CC.csprojResolveAssemblyReference.cache
+C:\Users\coby\Desktop\שנה ג\HW1_CC\obj\x86\Debug\HW1_CC.Properties.Resources.resources
+C:\Users\coby\Desktop\שנה ג\HW1_CC\obj\x86\Debug\HW1_CC.csproj.GenerateResource.Cache
+C:\Users\coby\Desktop\שנה ג\HW1_CC\obj\x86\Debug\HW1_CC.dll
+C:\Users\coby\Desktop\שנה ג\HW1_CC\obj\x86\Debug\HW1_CC.pdb
+C:\Users\Vital\Desktop\Mini_proj\HW1_CC\bin\HW1_CC.dll.config
+C:\Users\Vital\Desktop\Mini_proj\HW1_CC\bin\HW1_CC.dll
+C:\Users\Vital\Desktop\Mini_proj\HW1_CC\bin\HW1_CC.pdb
+C:\Users\Vital\Desktop\Mini_proj\HW1_CC\obj\x86\Debug\HW1_CC.csprojResolveAssemblyReference.cache
+C:\Users\Vital\Desktop\Mini_proj\HW1_CC\obj\x86\Debug\HW1_CC.Properties.Resources.resources
+C:\Users\Vital\Desktop\Mini_proj\HW1_CC\obj\x86\Debug\HW1_CC.csproj.GenerateResource.Cache
+C:\Users\Vital\Desktop\Mini_proj\HW1_CC\obj\x86\Debug\HW1_CC.dll
+C:\Users\Vital\Desktop\Mini_proj\HW1_CC\obj\x86\Debug\HW1_CC.pdb
